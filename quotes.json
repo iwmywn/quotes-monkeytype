@@ -1,750 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like arsenic, toxic people slowly kill you. They kill your positive spirit and play with your mind and emotions. The only cure is to let them go.",
-      "source": "Dennisse Lisseth",
-      "length": 145,
-      "id": 7022
-    },
-    {
-      "text": "Everything happens for a reason. Life puts you down, only so you can get back up for the better things. Live life, forgive and forget. Let go of the past.",
-      "source": "Hussein Nishah",
-      "length": 154,
-      "id": 7023
-    },
-    {
-      "text": "Never undervalue who you are, and NEVER underestimate what you are capable of.",
-      "source": "Auliq Ice",
-      "length": 78,
-      "id": 7024
-    },
-    {
-      "text": "Start over, my darling. Be brave enough to find the life you want and courageous enough to chase it. Then start over and love yourself the way you were always meant to.",
-      "source": "Madalyn Beck",
-      "length": 168,
-      "id": 7025
-    },
-    {
-      "text": "One day they'll realize they lost a diamond while playing with worthless stones.",
-      "source": "Turcois Ominek",
-      "length": 80,
-      "id": 7026
-    },
-    {
-      "text": "Live without pretending, love without depending, listen without defending, speak without offending.",
-      "source": "Drake",
-      "length": 99,
-      "id": 7027
-    },
-    {
-      "text": "If you don't make the time to work on creating the life you want, you're eventually going to be forced to spend a lot of time dealing with a life you don't want.",
-      "source": "Kevin Ngo",
-      "length": 161,
-      "id": 7028
-    },
-    {
-      "text": "Be thankful for all things in life. Even for the bad things. Sometimes the worst situations in life turn out to be the best things that ever happened to us.",
-      "source": "John Milson",
-      "length": 156,
-      "id": 7029
-    },
-    {
-      "text": "Never regret anything from your past because one day, you'll look back and thank it for hurting you so much that you decided to become a stronger human being.",
-      "source": "Faith Star",
-      "length": 158,
-      "id": 7030
-    },
-    {
-      "text": "Successful people studied to gain knowledge not to gain grades.",
-      "source": "Udayveer Singh",
-      "length": 63,
-      "id": 7031
-    },
-    {
-      "text": "You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.",
-      "source": "Michael Phelps",
-      "length": 218,
-      "id": 7032
-    },
-    {
-      "text": "It's not strength, it's perception that makes you stronger. If you change how you see it, you'll change how you feel about it.",
-      "source": "Yvonne Pierre",
-      "length": 126,
-      "id": 7033
-    },
-    {
-      "text": "Take all the time you need to heal emotionally. Moving on doesn't take a day, it takes lots of little steps to be able to break free of your broken self.",
-      "source": "Tere Arigo",
-      "length": 153,
-      "id": 7034
-    },
-    {
-      "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl. But whatever you do, you have to keep moving forward.",
-      "source": "Martin Luther King Jr.",
-      "length": 138,
-      "id": 7035
-    },
-    {
-      "text": "Your body adapts to what you eat. Your mind adapts to what you consume. Your soul adapts to what you love. What you feed yourself today is who you become tomorrow.",
-      "source": "James Clear",
-      "length": 163,
-      "id": 7036
-    },
-    {
-      "text": "No matter how hard it gets, stick your chest out, keep your head up and handle it.",
-      "source": "Tupac",
-      "length": 82,
-      "id": 7037
-    },
-    {
-      "text": "Be positive. Your mind is more powerful than you think. What is down in the well comes up in the bucket. Fill yourself with positive.",
-      "source": "Tony Dungy",
-      "length": 133,
-      "id": 7038
-    },
-    {
-      "text": "Pay no attention to toxic words. What people say is often a reflection of themselves, not you.",
-      "source": "Christian Baloga",
-      "length": 94,
-      "id": 7039
-    },
-    {
-      "text": "Sometimes life sends us people who don't love us enough, to remind us of what we're worthy of.",
-      "source": "Mandy Hale",
-      "length": 94,
-      "id": 7040
-    },
-    {
-      "text": "People will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-      "source": "Maya Angelou",
-      "length": 119,
-      "id": 7041
-    },
-    {
-      "text": "Life doesn't always give you what you want but if you look closely you will see that it gives you what you need for your growth.",
-      "source": "Leon Brown",
-      "length": 128,
-      "id": 7042
-    },
-    {
-      "text": "Rumors are carried by haters, spread by fools, and accepted by idiots.",
-      "source": "Nishan Panwar",
-      "length": 70,
-      "id": 7043
-    },
-    {
-      "text": "Stop worrying about what tomorrow may bring. Focus on what you can control. Stay positive. Enjoy today. Expect good things to come.",
-      "source": "Karen Salmansohn",
-      "length": 131,
-      "id": 7044
-    },
-    {
-      "text": "Tell me, I forget. Show me, I remember. Involve me, I understand.",
-      "source": "Chinese Proverb",
-      "length": 65,
-      "id": 7045
-    },
-    {
-      "text": "The sun is a daily reminder that we too can rise again from the darkness, that we too can shine our own light.",
-      "source": "S. Ajna",
-      "length": 110,
-      "id": 7046
-    },
-    {
-      "text": "Let go of the people who dull your shine, poison your spirit, and bring you drama. Cancel your subscription to their issues.",
-      "source": "Steve Maraboli",
-      "length": 124,
-      "id": 7047
-    },
-    {
-      "text": "Tomorrow is not promised and the past cannot be changed therefore live each day to the fullest and know that every new day is a blessing.",
-      "source": "Nishan Panwar",
-      "length": 137,
-      "id": 7048
-    },
-    {
-      "text": "Sometimes life takes you in a direction you never saw yourself going but it turns out to be the best road you have ever taken.",
-      "source": "Abhishek Tiwari",
-      "length": 126,
-      "id": 7049
-    },
-    {
-      "text": "The clock is running. Make the most of today. Time waits for no man. Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why it is called the present.",
-      "source": "Alice Morse Earle",
-      "length": 167,
-      "id": 7050
-    },
-    {
-      "text": "When you learn how to be alone you'll discover the difference between alone and lonely.",
-      "source": "L. J. Vanier",
-      "length": 87,
-      "id": 7051
-    },
-    {
-      "text": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
-      "source": "Henry Ford",
-      "length": 114,
-      "id": 7052
-    },
-    {
-      "text": "Life will only change when you become more committed to your dreams than you are to your comfort zone.",
-      "source": "Billy Cox",
-      "length": 102,
-      "id": 7053
-    },
-    {
-      "text": "The hustle brings the dollar. The experience brings the knowledge. The persistence brings success.",
-      "source": "Ross Simmonds",
-      "length": 98,
-      "id": 7054
-    },
-    {
-      "text": "An arrow can only be shot by pulling it backward. So when life is dragging you back with difficulties, it means that it's going to launch you into something great. So just focus, and keep aiming.",
-      "source": "Paulo Coelho",
-      "length": 195,
-      "id": 7055
-    },
-    {
-      "text": "Things have a way of working themselves out if we just remain positive.",
-      "source": "Lou Holtz",
-      "length": 71,
-      "id": 7056
-    },
-    {
-      "text": "Do what makes you happy, be with who makes you smile, laugh as much as you breathe, and love as long as you live.",
-      "source": "Rachel Ann Nunes",
-      "length": 113,
-      "id": 7057
-    },
-    {
-      "text": "I will not be another flower, picked for my beauty and left to die. I will be wild, difficult to find, and impossible to forget.",
-      "source": "Erin Van Vuren",
-      "length": 128,
-      "id": 7058
-    },
-    {
-      "text": "Listen to your heart more than the opinions of others. A decision made because of the opinions of others is one we often come to regret.",
-      "source": "Haemin Sunim",
-      "length": 136,
-      "id": 7059
-    },
-    {
-      "text": "People who repeatedly attack your confidence and self-esteem are quite aware of your potential, even if you are not.",
-      "source": "Wayne Gerard Trotman",
-      "length": 116,
-      "id": 7060
-    },
-    {
-      "text": "Don't worry about finding the love of your life. First, love yourself and everything will fall into place.",
-      "source": "Ralph Napolitano",
-      "length": 106,
-      "id": 7061
-    },
-    {
-      "text": "Some days are just bad days, that's all. You have to experience sadness to know happiness, and I remind myself that not every day is going to be a good day, that's just the way it is.",
-      "source": "Dita Von Teese",
-      "length": 183,
-      "id": 7062
-    },
-    {
-      "text": "You've done it before and you can do it now. See the positive possibilities. Redirect the substantial energy of your frustration and turn it into positive, effective, unstoppable determination.",
-      "source": "Ralph Marston",
-      "length": 193,
-      "id": 7063
-    },
-    {
-      "text": "It's okay to be alone, to be sad, to rest and repair. Really.",
-      "source": "Susan Cain",
-      "length": 61,
-      "id": 7064
-    },
-    {
-      "text": "If you want your children to turn out well, spend twice as much time with them and half as much money.",
-      "source": "Abigail Van Buren",
-      "length": 102,
-      "id": 7065
-    },
-    {
-      "text": "When it hurts - observe. Life is trying to teach you something.",
-      "source": "Anita Krizzan",
-      "length": 63,
-      "id": 7066
-    },
-    {
-      "text": "Today is difficult, tomorrow is much more difficult, but the day after tomorrow is beautiful. Most people die tomorrow evening.",
-      "source": "Jack Ma",
-      "length": 127,
-      "id": 7067
-    },
-    {
-      "text": "Trust the process. Your time is coming. Just do the work and the results will handle themselves.",
-      "source": "Tony Gaskins",
-      "length": 96,
-      "id": 7068
-    },
-    {
-      "text": "You can't go back and change the beginning, but you can start where you are and change the ending.",
-      "source": "C. S. Lewis",
-      "length": 98,
-      "id": 7069
-    },
-    {
-      "text": "You don't get rich by spending your time to save money. You get rich by saving your time to make money.",
-      "source": "Naval Ravikant",
-      "length": 103,
-      "id": 7070
-    },
-    {
-      "text": "Don't allow someone not worth it to have the power to occupy your thoughts. If they don't find you worth the effort or the time, why should you waste yours?",
-      "source": "Donna Lynn Hope",
-      "length": 156,
-      "id": 7071
-    },
-    {
-      "text": "Strive toward what you know you must achieve, in confident & courageous manner.",
-      "source": "Eleesha",
-      "length": 79,
-      "id": 7072
-    },
-    {
-      "text": "Don't hope for a life without problems. There's no such thing. Instead, hope for a life full of good problems.",
-      "source": "Mark Manson",
-      "length": 110,
-      "id": 7073
-    },
-    {
-      "text": "Be willing to be uncomfortable. Be comfortable being uncomfortable. It may get tough, but it's a small price to pay for living a dream.",
-      "source": "Peter McWilliams",
-      "length": 135,
-      "id": 7074
-    },
-    {
-      "text": "You are blessed. You are great. You are not alone. You are powerful.",
-      "source": "Amit Ray",
-      "length": 68,
-      "id": 7075
-    },
-    {
-      "text": "I would encourage you to set really high goals. Set goals that, when you set them, you think they're impossible. But then every day you can work towards them, and anything is possible, so keep working hard and follow your dreams.",
-      "source": "Katie Ledecky",
-      "length": 229,
-      "id": 7076
-    },
-    {
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "source": "Marcus Aurelius",
-      "length": 69,
-      "id": 7077
-    },
-    {
-      "text": "Stay focused, work hard, know your numbers, and be disciplined. If you do those things and take care of your people, the likelihood of being successful is very, very high.",
-      "source": "Marcus Lemonis",
-      "length": 171,
-      "id": 7078
-    },
-    {
-      "text": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
-      "source": "Friedrich Nietzsche",
-      "length": 82,
-      "id": 7079
-    },
-    {
-      "text": "I will forever remind you that you are gifted, strong and beautiful, exactly as you are. Will you forever remind yourself, too?",
-      "source": "Scott Stabile",
-      "length": 127,
-      "id": 7080
-    },
-    {
-      "text": "Start doing something, you'll continue... Why? Because motivation doesn't cause action. Action causes motivation.",
-      "source": "Neil Pasricha",
-      "length": 113,
-      "id": 7081
-    },
-    {
-      "text": "As I'm getting older, I'm really learning unconditional love and loyalty are extremely important.",
-      "source": "Bindi Irwin",
-      "length": 97,
-      "id": 7082
-    },
-    {
-      "text": "And will you succeed? Yes indeed, yes indeed! Ninety-eight and three-quarters percent guaranteed!",
-      "source": "Dr. Seuss",
-      "length": 97,
-      "id": 7083
-    },
-    {
-      "text": "Be open about your thoughts, ideas, and desires and you will be right with your decisions.",
-      "source": "Auliq Ice",
-      "length": 90,
-      "id": 7084
-    },
-    {
-      "text": "The power of intuitive understanding will protect you from harm until the end of your days.",
-      "source": "Lao Tzu",
-      "length": 91,
-      "id": 7085
-    },
-    {
-      "text": "For what it's worth: it's never too late to be whoever you want to be. I hope you live a life you're proud of, and if you find you're not, I hope you have the strength to start over again.",
-      "source": "F. Scott Fitzgerald",
-      "length": 188,
-      "id": 7086
-    },
-    {
-      "text": "So much of our time is spent worrying about the opinions of people that don't ultimately matter to us.",
-      "source": "Shane Parrish",
-      "length": 102,
-      "id": 7087
-    },
-    {
-      "text": "You don't get to choose if you get hurt in this world. But you do have some say in who hurts you.",
-      "source": "John Green",
-      "length": 97,
-      "id": 7088
-    },
-    {
-      "text": "If you feel like there's something out there that you're supposed to be doing, if you have a passion for it, then stop wishing and  just do it.",
-      "source": "Wanda Sykes",
-      "length": 143,
-      "id": 7089
-    },
-    {
-      "text": "The more you practice self-acceptance, the more you'll realize the only person who's acceptance you ever needed, is your own.",
-      "source": "Mel Robbins",
-      "length": 125,
-      "id": 7090
-    },
-    {
-      "text": "I have come to realize making yourself happy is most important. Never be ashamed of how you feel. You have the right to feel any emotion you want, and do what makes you happy. That's my life motto.",
-      "source": "Demi Lovato",
-      "length": 197,
-      "id": 7091
-    },
-    {
-      "text": "The notion that we are products of our environment is our greatest sin; we are products of our choices.",
-      "source": "Margaret Mead",
-      "length": 103,
-      "id": 7092
-    },
-    {
-      "text": "A friend is one that knows you as you are, understands where you have been, accepts what you have become, and still, gently allows you to grow.",
-      "source": "William Shakespeare",
-      "length": 143,
-      "id": 7093
-    },
-    {
-      "text": "Don't hold to anger, hurt or pain. They steal your energy and keep you from love.",
-      "source": "Leo Buscaglia",
-      "length": 81,
-      "id": 7094
-    },
-    {
-      "text": "When you don't want anything from people, they lose their power over you.",
-      "source": "Thibaut",
-      "length": 73,
-      "id": 7095
-    },
-    {
-      "text": "Our life is shaped by our mind; we become what we think. Joy follows a pure thought like a shadow that never leaves.",
-      "source": "Buddha",
-      "length": 116,
-      "id": 7096
-    },
-    {
-      "text": "All you need is passion. If you have a passion for something, you'll create the talent.",
-      "source": "Yanni",
-      "length": 87,
-      "id": 7097
-    },
-    {
-      "text": "Acceptance doesn't mean resignation; it means understanding that something is what it is and that there's got to be a way through it.",
-      "source": "Michael J. Fox",
-      "length": 133,
-      "id": 7098
-    },
-    {
-      "text": "Living a life somewhere else in your mind is nothing more than being a prisoner where you are.",
-      "source": "Shannon L. Alder",
-      "length": 94,
-      "id": 7099
-    },
-    {
-      "text": "The day she let go of the things that were weighing her down, was the day she began to shine the brightest.",
-      "source": "Katrina Mayer",
-      "length": 107,
-      "id": 7100
-    },
-    {
-      "text": "Never depend on single income. Make investments to create a second source.",
-      "source": "Warren Buffett",
-      "length": 74,
-      "id": 7101
-    },
-    {
-      "text": "If you see somebody that's hurting, don't look away. And if you are hurting, even though it might be hard, try to find that bravery within yourself to dive deep and go tell somebody.",
-      "source": "Lady Gaga",
-      "length": 182,
-      "id": 7102
-    },
-    {
-      "text": "Let go of negative people. They only show up to share complaints, problems, disastrous stories, fear, and judgment on others. If somebody is looking for a bin to throw all their trash into, make sure it's not in your mind.",
-      "source": "Dalai Lama",
-      "length": 222,
-      "id": 7103
-    },
-    {
-      "text": "It's hard when you miss people. But you know if you miss them, that means you're lucky. It means you had someone special in your life, someone worth missing.",
-      "source": "Nikki Schiefelbein",
-      "length": 157,
-      "id": 7104
-    },
-    {
-      "text": "Some people believe holding on and hanging in there are signs of great strength. However, there are times when it takes much more strength to know when to let go and then do it.",
-      "source": "Ann Landers",
-      "length": 177,
-      "id": 7105
-    },
-    {
-      "text": "Look closely at the present you are constructing. It should look like the future you are dreaming.",
-      "source": "Alice Walker",
-      "length": 98,
-      "id": 7106
-    },
-    {
-      "text": "Coming together is a beginning. Keeping together is progress. Working together is success.",
-      "source": "Henry Ford",
-      "length": 90,
-      "id": 7107
-    },
-    {
-      "text": "Sometimes there are things in life that aren't meant to stay. Sometimes change may not be what we want. Sometimes change is what we need.",
-      "source": "Don Bolena Jr.",
-      "length": 137,
-      "id": 7108
-    },
-    {
-      "text": "If you play your heart out for what your jersey says on the front, everyone will remember what the jersey says on the back.",
-      "source": "Miracle",
-      "length": 123,
-      "id": 7109
-    },
-    {
-      "text": "Because at some point you have to realize that some people can stay in your heart but not in your life.",
-      "source": "Sandi Lynn",
-      "length": 103,
-      "id": 7110
-    },
-    {
-      "text": "You cannot suffer the past or future because they do not exist. What you are suffering is your memory and your imagination.",
-      "source": "Sadhguru",
-      "length": 123,
-      "id": 7111
-    },
-    {
-      "text": "Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.",
-      "source": "Steve Maraboli",
-      "length": 149,
-      "id": 7112
-    },
-    {
-      "text": "Hope is being able to see that there is light despite all of the darkness.",
-      "source": "Desmond Tutu",
-      "length": 74,
-      "id": 7113
-    },
-    {
-      "text": "Discipline your mind to think positively. Discipline your mind to see the good in every situation and look on the best side of every event.",
-      "source": "Roy T. Bennett",
-      "length": 139,
-      "id": 7114
-    },
-    {
-      "text": "Four things do not come back: the spoken word, the sped arrow, the past life, and the neglected opportunity.",
-      "source": "Ted Chiang",
-      "length": 108,
-      "id": 7115
-    },
-    {
-      "text": "Do not allow negative thoughts to enter your mind for they are weeds that strangle confidence.",
-      "source": "Bruce Lee",
-      "length": 94,
-      "id": 7116
-    },
-    {
-      "text": "Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.",
-      "source": "Marcel Proust",
-      "length": 111,
-      "id": 7117
-    },
-    {
-      "text": "The purpose of life is not to be happy-but to matter, to be productive, to be useful, to have it make some difference that you lived at all.",
-      "source": "Leo Rosten",
-      "length": 140,
-      "id": 7118
-    },
-    {
-      "text": "Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free.",
-      "source": "Thich Nhat Hanh",
-      "length": 176,
-      "id": 7119
-    },
-    {
-      "text": "Fear is often our immediate response to uncertainty. There's nothing wrong with experiencing fear. The key is not to get stuck in it.",
-      "source": "Gabrielle Bernstein",
-      "length": 133,
-      "id": 7120
-    },
-    {
-      "text": "It is only in our darkest hours that we may discover the true strength of the brilliant light within ourselves that can never, ever, be dimmed.",
-      "source": "Doe Zantamanta",
-      "length": 143,
-      "id": 7121
-    },
-    {
-      "text": "Do not let people's opinions of you mold your destiny. Let unhappy people have their unhappy thoughts. Continue on your path courageously.",
-      "source": "Haemin Sunim",
-      "length": 138,
-      "id": 7122
-    },
-    {
-      "text": "Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.",
-      "source": "Mark Twain",
-      "length": 168,
-      "id": 7123
-    },
-    {
-      "text": "When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.",
-      "source": "Eleanor Roosevelt",
-      "length": 129,
-      "id": 7124
-    },
-    {
-      "text": "When you change your thoughts, remember to also change your world.",
-      "source": "Norman Vincent Peale",
-      "length": 66,
-      "id": 7125
-    },
-    {
-      "text": "It is only when we take chances, when our lives improve. The initial and the most difficult risk that we need to take is to become honest.",
-      "source": "Walter Anderson",
-      "length": 138,
-      "id": 7126
-    },
-    {
-      "text": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.",
-      "source": "Diane McLaren",
-      "length": 139,
-      "id": 7127
-    },
-    {
-      "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
-      "source": "Winston Churchill",
-      "length": 102,
-      "id": 7128
-    },
-    {
-      "text": "It is better to fail in originality than to succeed in imitation.",
-      "source": "Herman Melville",
-      "length": 65,
-      "id": 7129
-    },
-    {
-      "text": "The road to success and the road to failure are almost exactly the same.",
-      "source": "Colin R. Davis",
-      "length": 72,
-      "id": 7130
-    },
-    {
-      "text": "Success usually comes to those who are too busy looking for it.",
-      "source": "Henry David Thoreau",
-      "length": 63,
-      "id": 7131
-    },
-    {
-      "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
-      "source": "Dale Carnegie",
-      "length": 107,
-      "id": 7132
-    },
-    {
-      "text": "Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. The slogan 'Press On' has solved and always will solve the problems of the human race.",
-      "source": "Calvin Coolidge",
-      "length": 334,
-      "id": 7133
-    },
-    {
-      "text": "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.",
-      "source": "Mister Rogers",
-      "length": 129,
-      "id": 7134
-    },
-    {
-      "text": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.",
-      "source": "John Wooden",
-      "length": 147,
-      "id": 7135
-    },
-    {
-      "text": "Success is getting what you want, happiness is wanting what you get.",
-      "source": "W. P. Kinsella",
-      "length": 68,
-      "id": 7136
-    },
-    {
-      "text": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
-      "source": "Steve Jobs",
-      "length": 110,
-      "id": 7137
-    },
-    {
-      "text": "Experience is a hard teacher because she gives the test first, the lesson afterwards.",
-      "source": "Vernon Sanders Law",
-      "length": 85,
-      "id": 7138
-    },
-    {
-      "text": "To know how much there is to know is the beginning of learning to live.",
-      "source": "Dorothy West",
-      "length": 71,
-      "id": 7139
-    },
-    {
-      "text": "Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus.",
-      "source": "Alexander Graham Bell",
-      "length": 105,
-      "id": 7140
-    },
-    {
-      "text": "I'm a greater believer in luck, and I find the harder I work the more I have of it.",
-      "source": "Thomas Jefferson",
-      "length": 83,
-      "id": 7141
-    },
-    {
-      "text": "When we strive to become better than we are, everything around us becomes better too.",
-      "source": "Paulo Coelho",
-      "length": 85,
-      "id": 7142
-    },
-    {
-      "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
-      "source": "Thomas Edison",
-      "length": 91,
-      "id": 7143
-    },
-    {
-      "text": "Setting goals is the first step in turning the invisible into the visible.",
-      "source": "Tony Robbins",
-      "length": 74,
-      "id": 7144
-    },
-    {
-      "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
-      "source": "Steve Jobs",
-      "length": 312,
-      "id": 7145
-    },
-    {
       "text": "It's not about better time management. It's about better life management.",
       "source": "Alexandra of The Productivity Zone",
       "length": 73,
@@ -767,12 +23,6 @@
       "source": "Yulia Tymoshenko",
       "length": 111,
       "id": 7149
-    },
-    {
-      "text": "Some women choose to follow men, and some choose to follow their dreams. If you're wondering which way to go, remember that your career will never wake up and tell you that it doesn't love you anymore.",
-      "source": "Lady Gaga",
-      "length": 201,
-      "id": 7150
     },
     {
       "text": "The thing women have yet to learn is nobody gives you power. You just take it.",
@@ -827,12 +77,6 @@
       "source": "Confucius Kongzi",
       "length": 87,
       "id": 7159
-    },
-    {
-      "text": "The successful man will profit from his mistakes and try again in a different way.",
-      "source": "Dale Carnegie",
-      "length": 82,
-      "id": 7160
     },
     {
       "text": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
@@ -899,18 +143,6 @@
       "source": "Gilbert K. Chesterton",
       "length": 81,
       "id": 7171
-    },
-    {
-      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
-      "source": "Winston Churchill",
-      "length": 72,
-      "id": 7172
-    },
-    {
-      "text": "Do not stop thinking of life as an adventure. You have no security unless you can live bravely, excitingly, imaginatively; unless you can choose a challenge instead of competence.",
-      "source": "Eleanor Roosevelt",
-      "length": 179,
-      "id": 7173
     },
     {
       "text": "Perfection is not attainable. But if we chase perfection we can catch excellence.",
@@ -985,12 +217,6 @@
       "id": 7185
     },
     {
-      "text": "Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results.",
-      "source": "Andrew Carnegie",
-      "length": 216,
-      "id": 7186
-    },
-    {
       "text": "Remember, teamwork begins by building trust. And the only way to do that is to overcome our need for invulnerability.",
       "source": "Patrick Lencioni",
       "length": 117,
@@ -1001,12 +227,6 @@
       "source": "Jean-Francois Cope",
       "length": 94,
       "id": 7188
-    },
-    {
-      "text": "Just one small positive thought in the morning can change your whole day.",
-      "source": "Dalai Lama",
-      "length": 73,
-      "id": 7189
     },
     {
       "text": "Don't let someone else's opinion of you become your reality.",
@@ -1043,12 +263,6 @@
       "source": "Gordon B. Hinckley",
       "length": 73,
       "id": 7195
-    },
-    {
-      "text": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love...",
-      "source": "Marcus Aurelius",
-      "length": 103,
-      "id": 7196
     },
     {
       "text": "Mondays are the start of the work week which offer new beginnings 52 times a year!",
@@ -1171,12 +385,6 @@
       "id": 7216
     },
     {
-      "text": "Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it... Once you learn that, you'll never be the same again.",
-      "source": "Steve Jobs",
-      "length": 251,
-      "id": 7217
-    },
-    {
       "text": "Life is like riding a bicycle. To keep your balance you must keep moving.",
       "source": "Albert Einstein",
       "length": 73,
@@ -1231,12 +439,6 @@
       "id": 7226
     },
     {
-      "text": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
-      "source": "Maya Angelou",
-      "length": 123,
-      "id": 7227
-    },
-    {
       "text": "The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel.",
       "source": "Steve Furtick",
       "length": 119,
@@ -1253,12 +455,6 @@
       "source": "Arianna Huffington",
       "length": 86,
       "id": 7230
-    },
-    {
-      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
-      "source": "Henry Ford",
-      "length": 79,
-      "id": 7231
     },
     {
       "text": "If you change the way you look at things, the things you look at change.",
@@ -1315,12 +511,6 @@
       "id": 7240
     },
     {
-      "text": "Never let success get to your head and never let failure get to your heart.",
-      "source": "Drake",
-      "length": 75,
-      "id": 7241
-    },
-    {
       "text": "Make sure your worst enemy doesn't live between your own two ears.",
       "source": "Laird Hamilton",
       "length": 66,
@@ -1351,12 +541,6 @@
       "id": 7246
     },
     {
-      "text": "As a single footstep will not make a path on the earth, so a single thought will not make a pathway in the mind. To make a deep physical path, we walk again and again. To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives.",
-      "source": "Henry David Thoreau",
-      "length": 275,
-      "id": 7247
-    },
-    {
       "text": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
       "source": "Earl Nightingale",
       "length": 107,
@@ -1367,12 +551,6 @@
       "source": "Pema Chodron",
       "length": 64,
       "id": 7249
-    },
-    {
-      "text": "We can see through others only when we can see through ourselves.",
-      "source": "Bruce Lee",
-      "length": 65,
-      "id": 7250
     },
     {
       "text": "First forget inspiration. Habit is more dependable. Habit will sustain you whether you're inspired or not. Habit will help you finish and polish your stories. Inspiration won't. Habit is persistence in practice.",
@@ -1403,18 +581,6 @@
       "source": "Thomas Aquinas",
       "length": 92,
       "id": 7255
-    },
-    {
-      "text": "You can be the ripest, juiciest peach in the world, and there's still going to be somebody who hates peaches.",
-      "source": "Dita Von Teese",
-      "length": 109,
-      "id": 7256
-    },
-    {
-      "text": "You'll never get bored when you try something new. There's really no limit to what you can do.",
-      "source": "Dr. Seuss",
-      "length": 94,
-      "id": 7257
     },
     {
       "text": "I think it's intoxicating when somebody is so unapologetically who they are.",
@@ -1477,12 +643,6 @@
       "id": 7267
     },
     {
-      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
-      "source": "Chinese Proverb",
-      "length": 76,
-      "id": 7268
-    },
-    {
       "text": "I wake up every morning and think to myself, \"How far can I push this company in the next 24 hours.\"",
       "source": "Leah Busque",
       "length": 99,
@@ -1517,18 +677,6 @@
       "source": "Socrates",
       "length": 131,
       "id": 7274
-    },
-    {
-      "text": "Do what you feel in your heart to be right-for you'll be criticized anyway.",
-      "source": "Eleanor Roosevelt",
-      "length": 75,
-      "id": 7275
-    },
-    {
-      "text": "If you think you're too small to make a difference, try sleeping with a mosquito.",
-      "source": "Dalai Lama",
-      "length": 81,
-      "id": 7276
     },
     {
       "text": "If we have the attitude that it's going to be a great day it usually is.",
@@ -1609,12 +757,6 @@
       "id": 7289
     },
     {
-      "text": "It's not the load that breaks you down, it's the way you carry it.",
-      "source": "Lou Holtz",
-      "length": 66,
-      "id": 7290
-    },
-    {
       "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
       "source": "Sheryl Sandberg",
       "length": 76,
@@ -1693,12 +835,6 @@
       "id": 7303
     },
     {
-      "text": "Never allow a person to tell you no who doesn't have the power to say yes.",
-      "source": "Eleanor Roosevelt",
-      "length": 74,
-      "id": 7304
-    },
-    {
       "text": "Amateus sit around and wait for inspiration. The rest of us just get up and go to work.",
       "source": "Stephen King",
       "length": 87,
@@ -1759,18 +895,6 @@
       "id": 7314
     },
     {
-      "text": "The difference between successful people and very successful people is that very successful people say no to almost everything.",
-      "source": "Warren Buffett",
-      "length": 127,
-      "id": 7315
-    },
-    {
-      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "source": "Maya Angelou",
-      "length": 73,
-      "id": 7316
-    },
-    {
       "text": "I hated every minute of training, but I said, \"Don't quit. Suffer now and live the rest of your life as a champion.\"",
       "source": "Muhammad Ali",
       "length": 116,
@@ -1813,12 +937,6 @@
       "id": 7323
     },
     {
-      "text": "You don't need to see the whole staircase, just take the first step.",
-      "source": "Martin Luther King Jr.",
-      "length": 68,
-      "id": 7324
-    },
-    {
       "text": "Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you.",
       "source": "Hillary Clinton",
       "length": 150,
@@ -1843,12 +961,6 @@
       "id": 7328
     },
     {
-      "text": "The world is full of nice people. If you can't find one, be one.",
-      "source": "Nishan Panwar",
-      "length": 64,
-      "id": 7329
-    },
-    {
       "text": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got to keep going.",
       "source": "Chantal Sutherland",
       "length": 144,
@@ -1861,22 +973,10 @@
       "id": 7331
     },
     {
-      "text": "If you can't do anything about it then let it go. Don't be a prisoner to things you can't change.",
-      "source": "Tony Gaskins",
-      "length": 97,
-      "id": 7332
-    },
-    {
       "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
       "source": "Rumi",
       "length": 98,
       "id": 7333
-    },
-    {
-      "text": "You can't go back and change the beginning, but you can start where you are and change the ending",
-      "source": "C.S. Lewis",
-      "length": 97,
-      "id": 7334
     },
     {
       "text": "The only thing standing in the way between you and your goal is the BS story you keep telling yourself as to why you can't achieve it.",
@@ -1897,52 +997,16 @@
       "id": 7337
     },
     {
-      "text": "And, when you want something, all the universe conspires in helping you to achieve it.",
-      "source": "Paulo Coelho, The Alchemist",
-      "length": 86,
-      "id": 7338
-    },
-    {
       "text": "Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do.",
       "source": "Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles",
       "length": 185,
       "id": 7339
     },
     {
-      "text": "I can be changed by what happens to me. But I refuse to be reduced by it.",
-      "source": "Maya Angelou, Letter to My Daughter",
-      "length": 73,
-      "id": 7340
-    },
-    {
-      "text": "Darkness can't drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
-      "source": "Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches",
-      "length": 109,
-      "id": 7341
-    },
-    {
-      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...",
-      "source": "Dr. Seuss, Oh, the Places You'll Go!",
-      "length": 204,
-      "id": 7342
-    },
-    {
-      "text": "It's the possibility of having a dream come true that makes life interesting.",
-      "source": "Paulo Coelho, The Alchemist",
-      "length": 77,
-      "id": 7343
-    },
-    {
       "text": "There is some good in this world, and it's worth fighting for.",
       "source": "J. R. R. Tolkien, The Two Towers",
       "length": 62,
       "id": 7344
-    },
-    {
-      "text": "Learn to light a candle in the darkest moments of someone's life. Be the light that helps others see; it is what gives life its deepest significance.",
-      "source": "Roy T. Bennett, The Light in the Heart",
-      "length": 149,
-      "id": 7345
     },
     {
       "text": "Atticus, he was real nice. Most people are, Scout, when you finally see them.",
@@ -2011,12 +1075,6 @@
       "id": 7356
     },
     {
-      "text": "Learn from the mistakes of others. You can't live long enough to make them all yourself.",
-      "source": "Eleanor Roosevelt",
-      "length": 88,
-      "id": 7357
-    },
-    {
       "text": "I always thought it was me against the world and then one day I realized it's just me against me.",
       "source": "Kendrick Lamar",
       "length": 97,
@@ -2033,12 +1091,6 @@
       "source": "Dhirubhai Ambani",
       "length": 84,
       "id": 7360
-    },
-    {
-      "text": "I'm not in this world to live up to your expectations, and you're not in this world to live up to mine.",
-      "source": "Bruce Lee",
-      "length": 103,
-      "id": 7361
     },
     {
       "text": "What's right is what's left if you do everything else wrong.",
@@ -2137,12 +1189,6 @@
       "id": 7377
     },
     {
-      "text": "Be an encourager: When you encourage others, you boost their self-esteem, enhance their self-confidence, make them work harder, lift their spirits and make them successful in their endeavors. Encouragement goes straight to the heart and is always available. Be an encourager. Always.",
-      "source": "Roy T. Bennett",
-      "length": 283,
-      "id": 7378
-    },
-    {
       "text": "Remember, you have been criticizing yourself for years and it hasn't worked. Try approving of yourself and see what happens.",
       "source": "Louise L. Hay",
       "length": 124,
@@ -2209,28 +1255,10 @@
       "id": 7389
     },
     {
-      "text": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.",
-      "source": "Margaret Mead",
-      "length": 131,
-      "id": 7390
-    },
-    {
-      "text": "Change is painful, but nothing is as painful as staying stuck somewhere you don't belong.",
-      "source": "Mandy Hale",
-      "length": 89,
-      "id": 7391
-    },
-    {
       "text": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
       "source": "John F. Kennedy",
       "length": 105,
       "id": 7392
-    },
-    {
-      "text": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
-      "source": "Maya Angelou",
-      "length": 115,
-      "id": 7393
     },
     {
       "text": "Dreams are the seeds of change. Nothing ever grows without a seed, and nothing ever changes without a dream.",
@@ -2251,12 +1279,6 @@
       "id": 7396
     },
     {
-      "text": "Only buy something that you'd be perfectly happy to hold if the market shuts down for 10 years.",
-      "source": "Warren Buffett",
-      "length": 95,
-      "id": 7397
-    },
-    {
       "text": "Money can't buy happiness, but it can make you awfully comfortable while you're being miserable.",
       "source": "Clare Boothe Luce",
       "length": 96,
@@ -2267,18 +1289,6 @@
       "source": "Jen Sincero",
       "length": 100,
       "id": 7399
-    },
-    {
-      "text": "You're already a financial trader. You might not think of it in just this way, but if you work for a living, you're trading your time for money. Frankly, it's just about the worst trade you can make. Why? You can always get more money, but you can't get more time.",
-      "source": "Tony Robbins",
-      "length": 264,
-      "id": 7400
-    },
-    {
-      "text": "You can only become truly accomplished at something you love. Don't make money your goal. Instead pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
-      "source": "Maya Angelou",
-      "length": 201,
-      "id": 7401
     },
     {
       "text": "Formal education will make you a living; self-education will make you a fortune.",
@@ -2311,12 +1321,6 @@
       "id": 7406
     },
     {
-      "text": "If you talk about it, it's a dream. If you envision it, it's possible. If you schedule it, it's real.",
-      "source": "Tony Robbins",
-      "length": 101,
-      "id": 7407
-    },
-    {
       "text": "How to stop time: kiss. How to travel in time: read. How to escape time: music. How to feel time: write. How to release time: breathe.",
       "source": "Matt Haig",
       "length": 134,
@@ -2339,18 +1343,6 @@
       "source": "Barack Obama",
       "length": 80,
       "id": 7411
-    },
-    {
-      "text": "Stop being afraid of what could go wrong, and start being excited about what could go right.",
-      "source": "Tony Robbins",
-      "length": 92,
-      "id": 7412
-    },
-    {
-      "text": "Defeat is a state of mind; no one is ever defeated until defeat is accepted as a reality.",
-      "source": "Bruce Lee",
-      "length": 89,
-      "id": 7413
     },
     {
       "text": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all-in which case, you fail by default.",
@@ -2377,12 +1369,6 @@
       "id": 7417
     },
     {
-      "text": "You're off to Great Places! Today is your day! Your mountain is waiting, so... get on your way!",
-      "source": "Dr. Seuss",
-      "length": 95,
-      "id": 7418
-    },
-    {
       "text": "At the end of the day we can endure much more than we think we can.",
       "source": "Frida Kahlo",
       "length": 67,
@@ -2393,12 +1379,6 @@
       "source": "Ursula Burns",
       "length": 104,
       "id": 7420
-    },
-    {
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "source": "Marcus Aurelius",
-      "length": 95,
-      "id": 7421
     },
     {
       "text": "The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before.",
@@ -2423,30 +1403,6 @@
       "source": "Brian Herbert",
       "length": 103,
       "id": 7425
-    },
-    {
-      "text": "The man who doesn't read has no advantage over the man who can't read.",
-      "source": "Mark Twain",
-      "length": 70,
-      "id": 7426
-    },
-    {
-      "text": "To learn a language is to have one more window from which to look at the world.",
-      "source": "Chinese Proverb",
-      "length": 79,
-      "id": 7427
-    },
-    {
-      "text": "Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.",
-      "source": "Roy T. Bennett",
-      "length": 180,
-      "id": 7428
-    },
-    {
-      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
-      "source": "Marcus Aurelius",
-      "length": 81,
-      "id": 7429
     },
     {
       "text": "The greatest weapon against stress is the ability to choose one thought over another.",
@@ -2539,12 +1495,6 @@
       "id": 7444
     },
     {
-      "text": "My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health.",
-      "source": "Naval Ravikant",
-      "length": 136,
-      "id": 7445
-    },
-    {
       "text": "Just because one person doesn't seem to care for you, doesn't mean you should forget about everyone else who does.",
       "source": "Haruki Murakami",
       "length": 114,
@@ -2555,18 +1505,6 @@
       "source": "Joel Osteen",
       "length": 119,
       "id": 7447
-    },
-    {
-      "text": "Take a leap of faith right now and know that you can live the life of your dreams by making a positive decision.",
-      "source": "Auliq Ice",
-      "length": 112,
-      "id": 7448
-    },
-    {
-      "text": "One day they'll realize they lost a diamond while playing with worthless stones.",
-      "source": "Turcois Ominek.",
-      "length": 80,
-      "id": 7449
     },
     {
       "text": "There is nothing wrong with dreaming, but there is everything wrong with dreaming without any intention to make the dream a reality.",
@@ -2587,18 +1525,6 @@
       "id": 7452
     },
     {
-      "text": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-      "source": "Dale Carnegie",
-      "length": 138,
-      "id": 7453
-    },
-    {
-      "text": "Don't be afraid to have goals and dreams. Even in the face of haters and those who do not believe in you, don't stop dreaming.",
-      "source": "Auliq Ice",
-      "length": 126,
-      "id": 7454
-    },
-    {
       "text": "Sometimes things aren't clear right away. That's where you need to be patient and persevere and see where things lead.",
       "source": "Mary Pierce",
       "length": 118,
@@ -2615,12 +1541,6 @@
       "source": "Stephen Covey",
       "length": 86,
       "id": 7457
-    },
-    {
-      "text": "Stress, anxiety and depression are caused when we are living to please others.",
-      "source": "Paulo Coelho",
-      "length": 78,
-      "id": 7458
     },
     {
       "text": "You draw to you the people and events which resonate with the energy that you are radiating. You attract what you are, so be your best.",
@@ -2659,12 +1579,6 @@
       "id": 7464
     },
     {
-      "text": "If you want to see your life improve, your dreams come closer to fruition, and happiness deepen in your life, don't give up on anything you are doing.",
-      "source": "Auliq Ice",
-      "length": 150,
-      "id": 7465
-    },
-    {
       "text": "The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear.",
       "source": "Prasad Mahes",
       "length": 109,
@@ -2689,12 +1603,6 @@
       "id": 7469
     },
     {
-      "text": "Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.",
-      "source": "Roy Bennett",
-      "length": 136,
-      "id": 7470
-    },
-    {
       "text": "Without desires and dreams, your thoughts do not matter and you can think whatever you want to.",
       "source": "Stephen Richards",
       "length": 95,
@@ -2705,12 +1613,6 @@
       "source": "Virgil Thomson",
       "length": 170,
       "id": 7472
-    },
-    {
-      "text": "Anxiety happens when you think you have to figure out everything all at once. Breathe. You're strong. You got this. Take it day by day.",
-      "source": "Karen Salmansohn",
-      "length": 135,
-      "id": 7473
     },
     {
       "text": "They say \"Follow your heart\"... But I can't follow you where you're going...",
@@ -2743,24 +1645,6 @@
       "id": 7478
     },
     {
-      "text": "The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.",
-      "source": "Eleanor Roosevelt",
-      "length": 140,
-      "id": 7479
-    },
-    {
-      "text": "The dream provides inspiration and motivation. The goal generates drive and momentum. But daily effort on the details is the fuel that gets you to your dream.",
-      "source": "Auliq Ice",
-      "length": 158,
-      "id": 7480
-    },
-    {
-      "text": "Caring for others over caring for yourself gets you out of your own self. But if caring for others becomes a source of pride, the self is strengthened and you're back to where you started.",
-      "source": "Naval Ravikant",
-      "length": 188,
-      "id": 7481
-    },
-    {
       "text": "Either write something worth reading or do something worth writing.",
       "source": "Benjamin Franklin",
       "length": 67,
@@ -2785,22 +1669,10 @@
       "id": 7485
     },
     {
-      "text": "The positive thinker sees the invisible, feels the intangible, and achieves the impossible.",
-      "source": "Winston Churchill",
-      "length": 91,
-      "id": 7486
-    },
-    {
       "text": "I read somewhere how important it is in life not necessarily to be strong but to feel strong.",
       "source": "Christopher McCandless",
       "length": 93,
       "id": 7487
-    },
-    {
-      "text": "Believe in your heart that you're meant to live a life full of passion, purpose, magic and miracles.",
-      "source": "Roy Bennett",
-      "length": 100,
-      "id": 7488
     },
     {
       "text": "Self-discipline is about controlling your desires and impulses while staying focused on what needs to get done to achieve your goal.",
@@ -2819,12 +1691,6 @@
       "source": "Catherine Pulsifer",
       "length": 70,
       "id": 7491
-    },
-    {
-      "text": "Challenges in and of themselves do nothing. But they create circumstances where growth can occur in ways it can't while sailing in smoother waters.",
-      "source": "Auliq Ice",
-      "length": 147,
-      "id": 7492
     },
     {
       "text": "Long term success is a direct result of what you achieve everyday. Goals provide your daily routine.",
@@ -2887,12 +1753,6 @@
       "id": 7502
     },
     {
-      "text": "Learn to be alone and to like it. There is nothing more empowering or freeing than learning to like your own company.",
-      "source": "Mandy Hale",
-      "length": 117,
-      "id": 7503
-    },
-    {
       "text": "It's amazing how quickly things can turn around when you remove toxic people from your life.",
       "source": "Robert Tew",
       "length": 92,
@@ -2927,12 +1787,6 @@
       "source": "Brian Thompson",
       "length": 74,
       "id": 7509
-    },
-    {
-      "text": "To attain knowledge, add things everyday. To attain wisdom, remove things every day.",
-      "source": "Lao Tzu",
-      "length": 84,
-      "id": 7510
     },
     {
       "text": "It's very hard to respect yourself when you give in to every temptation. If you want to build self-respect, build your willpower.",
@@ -2977,12 +1831,6 @@
       "id": 7517
     },
     {
-      "text": "Nobody gets to live life backward. Look ahead, that is where your future lies.",
-      "source": "Ann Landers",
-      "length": 78,
-      "id": 7518
-    },
-    {
       "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
       "source": "Ayn Rand",
       "length": 87,
@@ -3005,30 +1853,6 @@
       "source": "Zeenat Merchant Syal",
       "length": 94,
       "id": 7522
-    },
-    {
-      "text": "If you want to be successful in life, respect one rule: never lie to yourself.",
-      "source": "Paulo Coelho",
-      "length": 78,
-      "id": 7523
-    },
-    {
-      "text": "The most important relationship in your life is the one you have with yourself. The right person for you right now might be you.",
-      "source": "Mel Robbins",
-      "length": 128,
-      "id": 7524
-    },
-    {
-      "text": "Life is sweet and bitter. Beautiful and painful. And a blessing to be here. Live to your fullest. Don't waste time on fear and regret. Okay?",
-      "source": "Karen Salmansohn",
-      "length": 140,
-      "id": 7525
-    },
-    {
-      "text": "Don't let little things take up too much room in your heart... Or you will spend your whole life being upset.",
-      "source": "Karen Salmansohn",
-      "length": 109,
-      "id": 7526
     },
     {
       "text": "Most people are fast to stop you before you get started but hesitate to get in the way if you're moving.",
@@ -3067,12 +1891,6 @@
       "id": 7532
     },
     {
-      "text": "You can't force raging water to be calm. You have to leave it alone and let it return to its natural flow. Emotions are the same way.",
-      "source": "Thibaut",
-      "length": 133,
-      "id": 7533
-    },
-    {
       "text": "Life is like a box of chocolates, you never know what you're going to get.",
       "source": "Forrest Gump",
       "length": 74,
@@ -3085,22 +1903,10 @@
       "id": 7535
     },
     {
-      "text": "Sometimes things that hurt you most, teach you the greatest lesson in life.",
-      "source": "Buddha",
-      "length": 75,
-      "id": 7536
-    },
-    {
       "text": "The truth is that there is no actual stress or anxiety in the world; it's your thoughts that create these false beliefs. You can't package stress, touch it, or see it. There are only people engaged in stressful thinking.",
       "source": "Wayne Dyer",
       "length": 220,
       "id": 7537
-    },
-    {
-      "text": "Happiness in simplicity can be achieved with a flexible mindset and nine hours sleep each night.",
-      "source": "Dalai Lama",
-      "length": 96,
-      "id": 7538
     },
     {
       "text": "If you have good thoughts, they will shine out of your face like sunbeams and you will always look lovely.",
@@ -3145,12 +1951,6 @@
       "id": 7545
     },
     {
-      "text": "Every day, think as you wake up: Today I am fortunate to be alive, I have a precious human life, I am not going to waste it.",
-      "source": "Dalai Lama",
-      "length": 124,
-      "id": 7546
-    },
-    {
       "text": "Let go of what has passed. Let go of what may come. Let go of what is happening now. Don't try to figure anything out. Don't try to make anything happen. Relax, right now, and rest.",
       "source": "Tilopa",
       "length": 181,
@@ -3169,22 +1969,10 @@
       "id": 7549
     },
     {
-      "text": "What's done is done. What's gone is gone. One of life's lessons is always moving on. It's okay to look back to see how far you've come but kept moving forward.",
-      "source": "Roy T. Bennett",
-      "length": 159,
-      "id": 7550
-    },
-    {
       "text": "I do believe that if you haven't learnt about sadness, you cannot appreciate happiness.",
       "source": "Nana Mouskouri",
       "length": 87,
       "id": 7551
-    },
-    {
-      "text": "A healthy man wants a thousand things, a sick man only wants one.",
-      "source": "Naval Ravikant",
-      "length": 65,
-      "id": 7552
     },
     {
       "text": "When you need to calm down... Breathe in for 5 counts. Hold for 5 counts. Breathe out for 5 counts. Hold for 5 counts. Repeat the cycle 2 more times.",
@@ -3209,12 +1997,6 @@
       "source": "Joan Baez",
       "length": 108,
       "id": 7556
-    },
-    {
-      "text": "We have two ears and one mouth and we should use them proportionally.",
-      "source": "Susan Cain",
-      "length": 69,
-      "id": 7557
     },
     {
       "text": "Happiness hides in life's small details. If you're not looking, it becomes invisible.",
@@ -3295,28 +2077,10 @@
       "id": 7570
     },
     {
-      "text": "There's always failure. And there's always disappointment. And there's always loss. But the secret is learning from the loss, and realizing that none of those holes are vacuums.",
-      "source": "Michael J. Fox",
-      "length": 177,
-      "id": 7571
-    },
-    {
-      "text": "When you love someone you want to take care of that person as you would take care of yourself.",
-      "source": "Thich Nhat Hanh",
-      "length": 94,
-      "id": 7572
-    },
-    {
       "text": "One of the things that makes me who I am is the loyalty I have to people I hold close to my heart.",
       "source": "Simone Elkeles",
       "length": 98,
       "id": 7573
-    },
-    {
-      "text": "It's a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.",
-      "source": "Steve Maraboli",
-      "length": 104,
-      "id": 7574
     },
     {
       "text": "Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.",
@@ -3335,12 +2099,6 @@
       "source": "Hendrie Weisinger",
       "length": 158,
       "id": 7577
-    },
-    {
-      "text": "At your absolute best you still won't be good enough for the wrong person. At your worst, you'll still be worth it to the right person.",
-      "source": "Karen Salmansohn",
-      "length": 135,
-      "id": 7578
     },
     {
       "text": "Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny.",
@@ -3379,12 +2137,6 @@
       "id": 7584
     },
     {
-      "text": "One moment can change a day, one day can change a life and one life can change the world.",
-      "source": "Buddha",
-      "length": 89,
-      "id": 7585
-    },
-    {
       "text": "The only taste of success some people have is when they take a bite out of you.",
       "source": "Zig Ziglar",
       "length": 79,
@@ -3403,12 +2155,6 @@
       "id": 7588
     },
     {
-      "text": "If you are always trying to be normal, you will never know how amazing you can be.",
-      "source": "Maya Angelou",
-      "length": 82,
-      "id": 7589
-    },
-    {
       "text": "Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.",
       "source": "Imelda Staunton",
       "length": 160,
@@ -3419,12 +2165,6 @@
       "source": "Marilyn Monroe",
       "length": 61,
       "id": 7591
-    },
-    {
-      "text": "I don't worry about the haters... They are just angry because the truth I speak contradicts the lie they live.",
-      "source": "Steve Maraboli",
-      "length": 110,
-      "id": 7592
     },
     {
       "text": "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.",
@@ -3463,12 +2203,6 @@
       "id": 7598
     },
     {
-      "text": "You can spend minutes, hours, days, weeks or even months over-analyzing a situation, trying to put the pieces together. Or you can just leave the pieces on the floor and move on.",
-      "source": "Tupac Shakur",
-      "length": 178,
-      "id": 7599
-    },
-    {
       "text": "Maybe you have to know the darkness before you can appreciate the light.",
       "source": "Madeleine L'Engle",
       "length": 72,
@@ -3485,12 +2219,6 @@
       "source": "Adam Braun",
       "length": 87,
       "id": 7602
-    },
-    {
-      "text": "Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.",
-      "source": "Roy T. Bennett",
-      "length": 112,
-      "id": 7603
     },
     {
       "text": "Sometimes I think we're alone in the universe, and sometimes I think we're not. In either case, the idea is quite staggering.",
@@ -3553,12 +2281,6 @@
       "id": 7613
     },
     {
-      "text": "Your ego is your self-image created by thought. It's your social mask requiring validation because it lives in fear of losing its sense of identity.",
-      "source": "Thibaut",
-      "length": 148,
-      "id": 7614
-    },
-    {
       "text": "It takes courage to examine your life and to decide that there are things you would like to change, and it takes even more courage to do something about it.",
       "source": "Sue Hadfield",
       "length": 156,
@@ -3605,12 +2327,6 @@
       "source": "Wayne Dyer",
       "length": 147,
       "id": 7622
-    },
-    {
-      "text": "Great minds discuss ideas; Average minds discuss events; Small minds discuss people.",
-      "source": "Eleanor Roosevelt",
-      "length": 84,
-      "id": 7623
     },
     {
       "text": "Work hard! In the end, passion and hard work beat out natural talent.",
@@ -3745,18 +2461,6 @@
       "id": 7645
     },
     {
-      "text": "Multitasking is the sign of a stressed and diseased mind simultaneously doing many things poorly. Quality work and quality thinking require quiet focus.",
-      "source": "Thibaut",
-      "length": 152,
-      "id": 7646
-    },
-    {
-      "text": "No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.",
-      "source": "Demi Lovato",
-      "length": 207,
-      "id": 7647
-    },
-    {
       "text": "You can't defeat the darkness by keeping it caged inside of you.",
       "source": "Seth Adam Smith",
       "length": 64,
@@ -3859,12 +2563,6 @@
       "id": 7664
     },
     {
-      "text": "In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.",
-      "source": "Ralph Marston",
-      "length": 114,
-      "id": 7665
-    },
-    {
       "text": "A man too busy to take care of his health is like a mechanic too busy to take care of his tools.",
       "source": "Spanish proverb",
       "length": 96,
@@ -3877,28 +2575,10 @@
       "id": 7667
     },
     {
-      "text": "When we are comfortable with ourselves and have accepted ourselves wholly, others will also find us approachable and easier to accept us.",
-      "source": "Haemin Sunim",
-      "length": 137,
-      "id": 7668
-    },
-    {
       "text": "What I lack in talent, I compensate with my willingness to grind it out. That's the secret of my life.",
       "source": "Guy Kawasaki",
       "length": 102,
       "id": 7669
-    },
-    {
-      "text": "The anxiety many feel is a result of trying to live in the world their imagination created, while being forced to live in the real world.",
-      "source": "Thibaut",
-      "length": 137,
-      "id": 7670
-    },
-    {
-      "text": "The less you respond to negative people, the more positive your life will become.",
-      "source": "Paulo Coelho",
-      "length": 81,
-      "id": 7671
     },
     {
       "text": "Be yourself; no base imitator of another, but your best self. There is something which you can do better than another. Listen to the inward voice and bravely obey that. Do the things at which you are great, not what you were never made for.",
@@ -3919,12 +2599,6 @@
       "id": 7674
     },
     {
-      "text": "Your heart's strength is measured by how hard it holds on. Your self-worth and faith is measured by finally letting go. However, your peace is measured by how long you don't look back.",
-      "source": "Shannon L. Alder",
-      "length": 184,
-      "id": 7675
-    },
-    {
       "text": "The natural healing force in each one of us is the greatest force in getting well.",
       "source": "Hippocrates",
       "length": 82,
@@ -3935,12 +2609,6 @@
       "source": "Robin Sharma",
       "length": 102,
       "id": 7677
-    },
-    {
-      "text": "It's a good idea always to do something relaxing prior to making an important decision in your life.",
-      "source": "Paulo Coelho",
-      "length": 100,
-      "id": 7678
     },
     {
       "text": "When admiring other people's gardens, don't forget to tend to your own flowers.",
@@ -4015,12 +2683,6 @@
       "id": 7690
     },
     {
-      "text": "The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.",
-      "source": "Roy T. Bennett",
-      "length": 115,
-      "id": 7691
-    },
-    {
       "text": "I think anything is possible if you have the mindset and the will and desire to do it and put the time in.",
       "source": "Roger Clemens",
       "length": 106,
@@ -4043,12 +2705,6 @@
       "source": "Emmet Fox",
       "length": 125,
       "id": 7695
-    },
-    {
-      "text": "Life is short, break the rules. Forgive quickly, kiss slowly. Love truly. Laugh uncontrollably and never regret anything that makes you smile.",
-      "source": "Mark Twain",
-      "length": 142,
-      "id": 7696
     },
     {
       "text": "If things aren't going so well, I try to stay positive and not give in to negative thoughts.",
@@ -4111,12 +2767,6 @@
       "id": 7706
     },
     {
-      "text": "I shall stay calm in moments of stress and anxiety, so as to allow positive thoughts and actions to manifest from me.",
-      "source": "Leon Brown",
-      "length": 117,
-      "id": 7707
-    },
-    {
       "text": "We are by nature observers, and thereby learners. That is our permanent state.",
       "source": "Ralph Waldo Emerson",
       "length": 78,
@@ -4139,12 +2789,6 @@
       "source": "Jules Renard",
       "length": 131,
       "id": 7711
-    },
-    {
-      "text": "People deal too much with the negative, with what is wrong. Why not try and see positive things, to just touch those things and make them bloom?",
-      "source": "Thich Nhat Hanh",
-      "length": 144,
-      "id": 7712
     },
     {
       "text": "There are only two kinds of people who are really fascinating: people who know absolutely everything, and people who know absolutely nothing.",
@@ -4181,12 +2825,6 @@
       "source": "Jack Dorsey",
       "length": 131,
       "id": 7718
-    },
-    {
-      "text": "It is not life that's complicated, it's the struggle to guide and control life.",
-      "source": "F. Scott Fitzgerald",
-      "length": 79,
-      "id": 7719
     },
     {
       "text": "Never cut a tree down in the wintertime. Never make a negative decision in the low time. Never make your most important decisions when you are in your worst moods. Wait. Be patient. The storm will pass. The spring will come.",
@@ -4297,22 +2935,10 @@
       "id": 7737
     },
     {
-      "text": "If you are honest, truthful, and transparent, people trust you. If people trust you, you have no grounds for fear, suspicion or jealousy.",
-      "source": "Dalai Lama",
-      "length": 137,
-      "id": 7738
-    },
-    {
       "text": "The person who doesn't value you is blocking you from the one who will. Let them go.",
       "source": "Robert Tew",
       "length": 84,
       "id": 7739
-    },
-    {
-      "text": "Loneliness is designed to help you discover who you are and stop looking outside yourself for your worth.",
-      "source": "Mandy Hale",
-      "length": 105,
-      "id": 7740
     },
     {
       "text": "They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.",
@@ -4339,12 +2965,6 @@
       "id": 7744
     },
     {
-      "text": "We have to be honest about what we want and take risks rather than lie to ourselves and make excuses to stay in our comfort zone.",
-      "source": "Roy T. Bennett",
-      "length": 129,
-      "id": 7745
-    },
-    {
       "text": "Real leadership is leaders recognizing that they serve the people that they lead.",
       "source": "Pete Hoekstra",
       "length": 81,
@@ -4355,18 +2975,6 @@
       "source": "Eugenia Tripputi",
       "length": 124,
       "id": 7747
-    },
-    {
-      "text": "Do not let the memories of your past limit the potential of your future. There are no limits to what you can achieve on your journey through life, except in your mind.",
-      "source": "Roy T. Bennett",
-      "length": 167,
-      "id": 7748
-    },
-    {
-      "text": "Feeling sorry for yourself and your present condition is not only a waste of energy but the worst habit you could possibly have.",
-      "source": "Dale Carnegie",
-      "length": 128,
-      "id": 7749
     },
     {
       "text": "The more you are positive and say, 'I want to have a good life,' the more you build that reality for yourself by creating the life that you want.",
@@ -4441,12 +3049,6 @@
       "id": 7761
     },
     {
-      "text": "What if I told you that 10 years from now, your life would be exactly the same? I doubt you'd be happy. So, why are you so afraid of change?",
-      "source": "Karen Salmansohn",
-      "length": 140,
-      "id": 7762
-    },
-    {
       "text": "The only thing that matters in life is your own opinion about yourself, your own respect for yourself. Nobody can destroy your dignity then.",
       "source": "Osho",
       "length": 140,
@@ -4493,12 +3095,6 @@
       "source": "Robin Sharma",
       "length": 142,
       "id": 7770
-    },
-    {
-      "text": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
-      "source": "Leo Buscaglia",
-      "length": 195,
-      "id": 7771
     },
     {
       "text": "Climb the mountain not to plant your flag, but to embrace the challenge, enjoy the air and behold the view. Climb it so you can see the world, not so the world can see you.",
@@ -4747,12 +3343,6 @@
       "id": 7812
     },
     {
-      "text": "Set your heart on doing good. Do it over and over again, and you will be filled with joy.",
-      "source": "Buddha",
-      "length": 89,
-      "id": 7813
-    },
-    {
       "text": "It's all about falling in love with yourself and sharing that love with someone who appreciates you, rather than looking for love to compensate for a self-love deficit.",
       "source": "Eartha Kitt",
       "length": 168,
@@ -4763,18 +3353,6 @@
       "source": "Sandy Hale",
       "length": 118,
       "id": 7815
-    },
-    {
-      "text": "The future belongs to those who believe in the beauty of their dreams.",
-      "source": "Eleanor Roosevelt",
-      "length": 70,
-      "id": 7816
-    },
-    {
-      "text": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.",
-      "source": "Marcus Aurelius",
-      "length": 122,
-      "id": 7817
     },
     {
       "text": "Surround yourself with the dreamers, and the doers, the believers, and thinkers, but most of all, surround yourself with those who see the greatness within you, even when you don't see it yourself.",
@@ -4865,12 +3443,6 @@
       "source": "Ralph Waldo Emerson",
       "length": 85,
       "id": 7832
-    },
-    {
-      "text": "There must come a point when you decide that your love for yourself is more important than your need to hold onto the past.",
-      "source": "Karen Salmansohn",
-      "length": 123,
-      "id": 7833
     },
     {
       "text": "Affirmations are a powerful tool to deliberately install desired beliefs about yourself.",
@@ -4981,12 +3553,6 @@
       "id": 7851
     },
     {
-      "text": "Sometimes it's the journey that teaches you a lot about your destination.",
-      "source": "Drake",
-      "length": 73,
-      "id": 7852
-    },
-    {
       "text": "Never be afraid to laugh at yourself. After all, you could be missing out on the joke of the century.",
       "source": "Dame Edna Everage",
       "length": 101,
@@ -4997,12 +3563,6 @@
       "source": "Panache Desai",
       "length": 84,
       "id": 7854
-    },
-    {
-      "text": "When you concern yourself with others, you naturally develop a sense of self-confidence. To help others takes courage and inner strength.",
-      "source": "Dalai Lama",
-      "length": 137,
-      "id": 7855
     },
     {
       "text": "Trust yourself. Create the kind of self that you will be happy to live with all your life. Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.",
@@ -5095,12 +3655,6 @@
       "id": 7870
     },
     {
-      "text": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
-      "source": "Maya Angelou",
-      "length": 136,
-      "id": 7871
-    },
-    {
       "text": "Forgive the past. It is over. Learn from it and let go. People are constantly changing and growing. Do not cling to a limited, disconnected, negative image of a person in the past. See that person now. Your relationship is always alive and changing.",
       "source": "Brian L. Weiss",
       "length": 249,
@@ -5111,12 +3665,6 @@
       "source": "Harvey Fierstein",
       "length": 196,
       "id": 7873
-    },
-    {
-      "text": "I'd rather be strong and happy than be what society thinks is thin and perfect and be miserable.",
-      "source": "Demi Lovato",
-      "length": 96,
-      "id": 7874
     },
     {
       "text": "One of the most beautiful compensations in life is that no person can help another without helping themselves.",
@@ -5141,12 +3689,6 @@
       "source": "Deepak Chopra",
       "length": 129,
       "id": 7878
-    },
-    {
-      "text": "Plant seeds of expectation in your mind; cultivate thoughts that anticipate achievement. Believe in yourself as being capable of overcoming all obstacles and weaknesses.",
-      "source": "Norman Vincent Peale",
-      "length": 169,
-      "id": 7879
     },
     {
       "text": "We are dying from overthinking. We are slowly killing ourselves by thinking about everything. Think. Think. Think. You can never trust the human mind anyway. It's a death trap.",
@@ -5185,18 +3727,6 @@
       "id": 7885
     },
     {
-      "text": "Life does not consist mainly, or even largely, of facts or happenings. It consist mainly of the storm of thoughts that is forever flowing through one's head.",
-      "source": "Mark Twain",
-      "length": 157,
-      "id": 7886
-    },
-    {
-      "text": "Overthinking ruins you. It ruins the situation. And it twists things around. It makes you worry. Plus it just makes everything worst than it actually is.",
-      "source": "Karen Salmansohn",
-      "length": 153,
-      "id": 7887
-    },
-    {
       "text": "Doing the best at this moment puts you in the best place for the next moment.",
       "source": "Oprah Winfrey",
       "length": 77,
@@ -5219,12 +3749,6 @@
       "source": "Peter Marshall",
       "length": 131,
       "id": 7891
-    },
-    {
-      "text": "Do something every day that you don't want to do. This is the golden rule for acquiring the habit of doing your duty without pain.",
-      "source": "Mark Twain",
-      "length": 130,
-      "id": 7892
     },
     {
       "text": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
@@ -5281,12 +3805,6 @@
       "id": 7901
     },
     {
-      "text": "The world only exists in your eyes. You can make it as big or as small as you want.",
-      "source": "F. Scott Fitzgerald",
-      "length": 83,
-      "id": 7902
-    },
-    {
       "text": "It is absurd to divide people into good and bad. People are either charming or tedious.",
       "source": "Oscar Wilde",
       "length": 87,
@@ -5317,12 +3835,6 @@
       "id": 7907
     },
     {
-      "text": "Take your mind off the problems for a moment, and focus on the positive possibilities. Consider how very much you are able to do.",
-      "source": "Ralph Marston",
-      "length": 129,
-      "id": 7908
-    },
-    {
       "text": "Let things come and go. Stay calm, don't let anything disturb your peace, and carry on.",
       "source": "Germany Kent",
       "length": 87,
@@ -5333,12 +3845,6 @@
       "source": "Andrena Sawyer",
       "length": 96,
       "id": 7910
-    },
-    {
-      "text": "Great things happen to those who don't stop believing, trying, learning, and being grateful.",
-      "source": "Roy T. Bennett",
-      "length": 92,
-      "id": 7911
     },
     {
       "text": "As you remove toxic people from your life, you free up space and emotional energy for positive, healthy relationships.",
@@ -5381,12 +3887,6 @@
       "source": "James Openheim",
       "length": 82,
       "id": 7918
-    },
-    {
-      "text": "Dance. Smile. Giggle. Marvel. Trust. Hope. Love. Wish. Believe. Most of all, enjoy every moment of the journey, and appreciate where you are at this moment instead of always focusing on how far you have to go.",
-      "source": "Mandy Hale",
-      "length": 209,
-      "id": 7919
     },
     {
       "text": "You can choose to let this thing bother you or let this be an adventure and welcome the challenge.",
@@ -5461,12 +3961,6 @@
       "id": 7931
     },
     {
-      "text": "You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can't control. These things are not asking to be judged by you. Leave them alone.",
-      "source": "Marcus Aurelius",
-      "length": 211,
-      "id": 7932
-    },
-    {
       "text": "I truly believe in positive synergy, that your positive mindset gives you a more hopeful outlook, and belief that you can do something great means you will do something great.",
       "source": "Russell Wilson",
       "length": 175,
@@ -5521,12 +4015,6 @@
       "id": 7941
     },
     {
-      "text": "Focus on your strengths, not your weaknesses. Focus on your character, not your reputation. Focus on your blessings, not your misfortunes.",
-      "source": "Roy T. Bennett",
-      "length": 138,
-      "id": 7942
-    },
-    {
       "text": "Inner peace doesn't come from getting what we want, but from remembering who we are.",
       "source": "Marianne Williamson",
       "length": 84,
@@ -5569,12 +4057,6 @@
       "id": 7949
     },
     {
-      "text": "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.",
-      "source": "Marcus Aurelius",
-      "length": 121,
-      "id": 7950
-    },
-    {
       "text": "Our souls are not hungry for fame, comfort, wealth, or power. Our souls are hungry for meaning, for the sense that we have figured out how to live so that our lives matter.",
       "source": "Harold S. Kushner",
       "length": 172,
@@ -5585,12 +4067,6 @@
       "source": "Elisabeth Kübler-Ross",
       "length": 199,
       "id": 7952
-    },
-    {
-      "text": "You always have more blessing than problems. You just have to spend more time appreciating your invisible blessings - and not put in so much time analyzing your problems.",
-      "source": "Karen Salmansohn",
-      "length": 170,
-      "id": 7953
     },
     {
       "text": "When you connect to the silence within you, that is when you can make sense of the disturbance going on around you.",
@@ -5605,18 +4081,6 @@
       "id": 7955
     },
     {
-      "text": "Stop leaving and you will arrive. Stop searching and you will see. Stop running away and you will be found.",
-      "source": "Lao Tzu",
-      "length": 107,
-      "id": 7956
-    },
-    {
-      "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
-      "source": "Mark Twain",
-      "length": 88,
-      "id": 7957
-    },
-    {
       "text": "Imagine repeating the power words 'love' or 'happiness' for five minutes twice a day for the rest of your life, amazing things could happen.",
       "source": "Stephen Richards",
       "length": 140,
@@ -5627,12 +4091,6 @@
       "source": "Avina Celeste",
       "length": 123,
       "id": 7959
-    },
-    {
-      "text": "The man of knowledge must be able not only to love his enemies but also to hate his friends.",
-      "source": "Friedrich Nietzsche",
-      "length": 92,
-      "id": 7960
     },
     {
       "text": "The higher the vibration, the more positive the events or people you attract and likewise.",
@@ -5677,22 +4135,10 @@
       "id": 7967
     },
     {
-      "text": "We can never obtain peace in the outer world until we make peace with ourselves.",
-      "source": "Dalai Lama",
-      "length": 80,
-      "id": 7968
-    },
-    {
       "text": "When you depersonalize abrasive behavior and see it as a call for help you become a catalyst for the best kind of change.",
       "source": "Marilyn Suttle",
       "length": 121,
       "id": 7969
-    },
-    {
-      "text": "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned.",
-      "source": "Naval Ravikant",
-      "length": 99,
-      "id": 7970
     },
     {
       "text": "When sadness knows the reason of tears, heart prepares to carry the ache for years.",
@@ -5761,12 +4207,6 @@
       "id": 7981
     },
     {
-      "text": "If you are going down a road and don't like what's in front of you, and look behind you and don't like what you see, get off the road. Create a new path!",
-      "source": "Maya Angelou",
-      "length": 153,
-      "id": 7982
-    },
-    {
       "text": "You current situation is giving you an opportunity to re-evaluate what you want.",
       "source": "Tashabee",
       "length": 80,
@@ -5789,12 +4229,6 @@
       "source": "Aristotle",
       "length": 77,
       "id": 7986
-    },
-    {
-      "text": "Don't stop pursuing your dreams in the midst of all the difficult situations you find yourself to be in. Instead, set your goals in faith.",
-      "source": "Auliq Ice",
-      "length": 138,
-      "id": 7987
     },
     {
       "text": "Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.",
@@ -5893,12 +4327,6 @@
       "id": 8003
     },
     {
-      "text": "Every time you thought you couldn't keep moving forward, you did. Take a moment to appreciate your strength.",
-      "source": "Karen Salmansohn",
-      "length": 108,
-      "id": 8004
-    },
-    {
       "text": "A life can change in a tenth of a second. Or sometimes it can take 70 years.",
       "source": "Charles Bukowski",
       "length": 76,
@@ -5977,12 +4405,6 @@
       "id": 8017
     },
     {
-      "text": "Be patient, life will offer you another chance as soon as you find calm within, for abundance is born out of calmness.",
-      "source": "Leon Brown",
-      "length": 118,
-      "id": 8018
-    },
-    {
       "text": "Look forward to the future and look forward to the unknown. Nothing stays the same and people change. One day that hurt and pain will be a distant memory.",
       "source": "Angela Merkel",
       "length": 154,
@@ -5993,18 +4415,6 @@
       "source": "Jim Rohn",
       "length": 222,
       "id": 8020
-    },
-    {
-      "text": "Associate yourself with people who think positively. You cannot surround yourself with negative people and expect positive outcomes.",
-      "source": "Roy Bennett",
-      "length":132 ,
-      "id": 8021
-    },
-    {
-      "text": "A person who practices compassion and forgiveness has great inner strength, whereas aggression is usually a sign of weakness.",
-      "source": "Dalai Lama",
-      "length": 125,
-      "id": 8022
     },
     {
       "text": "When you are focused on what you're doing, you are not going to miss the next opportunity... it's more likely that you get more!",
@@ -6049,22 +4459,10 @@
       "id": 8029
     },
     {
-      "text": "Breathe deeply. You can get through this. You are stronger than you realize. Everything will be okay. You got this.",
-      "source": "Karen Salmansohn",
-      "length": 115,
-      "id": 8030
-    },
-    {
       "text": "Try not to resist the changes that come your way. Instead, let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come.",
       "source": "Rumi",
       "length": 219,
       "id": 8031
-    },
-    {
-      "text": "When you affirm big, believe big and pray big, putting faith into action, big things happen.",
-      "source": "Norman Vincent Peale",
-      "length": 92,
-      "id": 8032
     },
     {
       "text": "Live and act within the limit of your knowledge and keep expanding it to the limit of your life.",
@@ -6083,18 +4481,6 @@
       "source": "Jaachynma N.E. Agu",
       "length": 130,
       "id": 8035
-    },
-    {
-      "text": "The more I think about it, the more I realize that overthinking isn't the real problem. The real problem is that we don't trust.",
-      "source": "L. J. Vanier",
-      "length": 128,
-      "id": 8036
-    },
-    {
-      "text": "You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens.",
-      "source": "Mandy Hale",
-      "length": 102,
-      "id": 8037
     }
   ]
 }
