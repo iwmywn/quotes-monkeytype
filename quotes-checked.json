@@ -1381,7 +1381,7 @@
       "id": 7251
     },
     {
-      "text": "The battles that count aren't the ones for gold medals. The struggles within yourself—the invisible, inevitable battles inside all of us—that's where it's at.",
+      "text": "The battles that count aren't the ones for gold medals. The struggles within yourself-the invisible, inevitable battles inside all of us-that's where it's at.",
       "source": "Jesse Owens",
       "length": 158,
       "id": 7252
@@ -2101,9 +2101,9 @@
       "id": 7371
     },
     {
-      "text": "I have not failed. I've just found 10,000 ways that won't work.",
-      "source": "Thomas A. Edison",
-      "length": 63,
+      "text": "Try not to resist the changes that come your way. Instead, let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come.",
+      "source": "Rumi",
+      "length": 219,
       "id": 7372
     },
     {
@@ -4723,9 +4723,9 @@
       "id": 7808
     },
     {
-      "text": "Stay positive and happy. Work hard and don't give up hope. Be open to criticism and keep learning. Surround yourself with happy, warm and genuine people.",
-      "source": "Tena Desae",
-      "length": 153,
+      "text": "Breathe deeply. You can get through this. You are stronger than you realize. Everything will be okay. You got this.",
+      "source": "Karen Salmansohn",
+      "length": 115,
       "id": 7809
     },
     {
@@ -5077,7 +5077,7 @@
       "id": 7867
     },
     {
-      "text": "We do not stop exercising because we grow old – we grow old because we stop exercising.",
+      "text": "We do not stop exercising because we grow old - we grow old because we stop exercising.",
       "source": "Kenneth Cooper",
       "length": 87,
       "id": 7868
@@ -5401,9 +5401,9 @@
       "id": 7921
     },
     {
-      "text": "If people are doubting how far you can go, go so far that you can't hear them anymore.",
-      "source": "Michele Ruiz",
-      "length": 86,
+      "text": "When you affirm big, believe big and pray big, putting faith into action, big things happen.",
+      "source": "Norman Vincent Peale",
+      "length": 92,
       "id": 7922
     },
     {
@@ -5443,7 +5443,7 @@
       "id": 7928
     },
     {
-      "text": "When the negative thoughts come – and they will; they come to all of us – it's not enough to just not dwell on it... You've got to replace it with a positive thought.",
+      "text": "When the negative thoughts come - and they will; they come to all of us - it's not enough to just not dwell on it... You've got to replace it with a positive thought.",
       "source": "Joel Osteen",
       "length": 166,
       "id": 7929
@@ -6047,24 +6047,6 @@
       "source": "Toni Sorenson",
       "length": 109,
       "id": 8029
-    },
-    {
-      "text": "Breathe deeply. You can get through this. You are stronger than you realize. Everything will be okay. You got this.",
-      "source": "Karen Salmansohn",
-      "length": 115,
-      "id": 8030
-    },
-    {
-      "text": "Try not to resist the changes that come your way. Instead, let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come.",
-      "source": "Rumi",
-      "length": 219,
-      "id": 8031
-    },
-    {
-      "text": "When you affirm big, believe big and pray big, putting faith into action, big things happen.",
-      "source": "Norman Vincent Peale",
-      "length": 92,
-      "id": 8032
     }
   ]
 }
