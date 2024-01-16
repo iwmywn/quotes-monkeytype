@@ -955,9 +955,9 @@
       "id": 7180
     },
     {
-      "text": "People say nothing is impossible, but I do nothing every day.",
-      "source": "Winnie the Pooh",
-      "length": 61,
+      "text": "Live and act within the limit of your knowledge and keep expanding it to the limit of your life.",
+      "source": "Ayn Rand",
+      "length": 96,
       "id": 7181
     },
     {
@@ -6065,12 +6065,6 @@
       "source": "Norman Vincent Peale",
       "length": 92,
       "id": 8032
-    },
-    {
-      "text": "Live and act within the limit of your knowledge and keep expanding it to the limit of your life.",
-      "source": "Ayn Rand",
-      "length": 96,
-      "id": 8033
     }
   ]
 }

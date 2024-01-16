@@ -1,96 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
-      "source": "Helen Keller",
-      "length": 97,
-      "id": 7176
-    },
-    {
-      "text": "The elevator to success is out of order. You'll have to use the stairs, one step at a time.",
-      "source": "Joe Girard",
-      "length": 91,
-      "id": 7177
-    },
-    {
-      "text": "Be a positive energy trampoline - absorb what you need and rebound more back.",
-      "source": "Dave Carolan",
-      "length": 77,
-      "id": 7178
-    },
-    {
-      "text": "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.",
-      "source": "Zig Ziglar",
-      "length": 109,
-      "id": 7179
-    },
-    {
-      "text": "I am so clever that sometimes I don't understand a single word of what I am saying.",
-      "source": "Oscar Wilde",
-      "length": 83,
-      "id": 7180
-    },
-    {
-      "text": "People say nothing is impossible, but I do nothing every day.",
-      "source": "Winnie the Pooh",
-      "length": 61,
-      "id": 7181
-    },
-    {
-      "text": "Life is like a sewer... what you get out of it depends on what you put into it.",
-      "source": "Tom Lehrer",
-      "length": 77,
-      "id": 7182
-    },
-    {
-      "text": "I always wanted to be somebody, but now I realise I should have been more specific.",
-      "source": "Lily Tomlin",
-      "length": 83,
-      "id": 7183
-    },
-    {
-      "text": "Talent wins games, but teamwork and intelligence win championships.",
-      "source": "Michael Jordan",
-      "length": 67,
-      "id": 7184
-    },
-    {
-      "text": "Remember, teamwork begins by building trust. And the only way to do that is to overcome our need for invulnerability.",
-      "source": "Patrick Lencioni",
-      "length": 117,
-      "id": 7187
-    },
-    {
-      "text": "I invite everyone to choose forgiveness rather than division, teamwork over personal ambition.",
-      "source": "Jean-Francois Cope",
-      "length": 94,
-      "id": 7188
-    },
-    {
-      "text": "Don't let someone else's opinion of you become your reality.",
-      "source": "Les Brown",
-      "length": 60,
-      "id": 7190
-    },
-    {
-      "text": "I am not a product of my circumstances. I am a product of my decisions.",
-      "source": "Stephen R. Covey",
-      "length": 71,
-      "id": 7191
-    },
-    {
-      "text": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
-      "source": "William James",
-      "length": 107,
-      "id": 7192
-    },
-    {
-      "text": "One of the differences between some successful and unsuccessful people is that one group is full of doers, while the other is full of wishers.",
-      "source": "Edmond Mbiaka",
-      "length": 142,
-      "id": 7193
-    },
-    {
       "text": "I'd rather regret the things I've done than regret the things I haven't done.",
       "source": "Lucille Ball",
       "length": 77,
@@ -143,12 +53,6 @@
       "source": "Catherine Pulsifer",
       "length": 222,
       "id": 7203
-    },
-    {
-      "text": "You can get everything in life you want if you will just help enough other people get what they want.",
-      "source": "Zig Ziglar",
-      "length": 101,
-      "id": 7204
     },
     {
       "text": "Don't settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.",
@@ -445,12 +349,6 @@
       "id": 7264
     },
     {
-      "text": "Some people want it to happen, some wish it would happen, others make it happen.",
-      "source": "Michael Jordan",
-      "length": 80,
-      "id": 7265
-    },
-    {
       "text": "Don't limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.",
       "source": "Mary Kay Ash",
       "length": 168,
@@ -473,12 +371,6 @@
       "source": "Michele Ruiz",
       "length": 86,
       "id": 7271
-    },
-    {
-      "text": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
-      "source": "Helen Keller",
-      "length": 151,
-      "id": 7272
     },
     {
       "text": "It's no use going back to yesterday, because I was a different person then.",
@@ -601,12 +493,6 @@
       "id": 7296
     },
     {
-      "text": "The best way to appreciate your job is to imagine yourself without one.",
-      "source": "Oscar Wilde",
-      "length": 71,
-      "id": 7297
-    },
-    {
       "text": "Unsuccessful people make their decisions based on their current situations. Successful people make their decisions based on where they want to be.",
       "source": "Benjamin Hardy",
       "length": 146,
@@ -673,12 +559,6 @@
       "id": 7310
     },
     {
-      "text": "We can do anything we want to if we stick to it long enough.",
-      "source": "Helen Keller",
-      "length": 60,
-      "id": 7311
-    },
-    {
       "text": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.",
       "source": "Pele",
       "length": 147,
@@ -725,12 +605,6 @@
       "source": "Susan Fales-Hill",
       "length": 101,
       "id": 7321
-    },
-    {
-      "text": "Be happy with what you have while working for what you want.",
-      "source": "Helen Keller",
-      "length": 60,
-      "id": 7322
     },
     {
       "text": "The big lesson in life, baby, is never be scared of anyone or anything.",
@@ -1189,22 +1063,10 @@
       "id": 7425
     },
     {
-      "text": "The greatest weapon against stress is the ability to choose one thought over another.",
-      "source": "William James",
-      "length": 85,
-      "id": 7430
-    },
-    {
       "text": "It takes nothing to join the crowd. It takes everything to stand alone.",
       "source": "Hans F. Hansen",
       "length": 71,
       "id": 7431
-    },
-    {
-      "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
-      "source": "Zig Ziglar",
-      "length": 98,
-      "id": 7432
     },
     {
       "text": "When I win and when I lose, I take ownership of it, because I really am in charge of what I do.",
@@ -1633,12 +1495,6 @@
       "id": 7528
     },
     {
-      "text": "How lucky am I to have something that makes saying goodbye so hard.",
-      "source": "Winnie the Pooh",
-      "length": 67,
-      "id": 7529
-    },
-    {
       "text": "We do today what they won't, so tomorrow we can accomplish what they can't.",
       "source": "Dwayne Johnson",
       "length": 75,
@@ -1777,22 +1633,10 @@
       "id": 7560
     },
     {
-      "text": "Where you are headed is more important than how fast you are going. Rather than always focusing on what's urgent, learn to focus on what is really important.",
-      "source": "Stephen R. Covey",
-      "length": 157,
-      "id": 7561
-    },
-    {
       "text": "May you know that every experience will teach and lead you to the integral parts in the seasons of your growth.",
       "source": "Hiral",
       "length": 111,
       "id": 7562
-    },
-    {
-      "text": "Some cause happiness wherever they go; others, whenever they go.",
-      "source": "Oscar Wilde",
-      "length": 64,
-      "id": 7563
     },
     {
       "text": "Be patient with yourself. You are growing stronger every day. The weight of the world will become lighter and you will begin to shine brighter. Don't give up.",
@@ -1889,18 +1733,6 @@
       "source": "Ana Chable",
       "length": 90,
       "id": 7583
-    },
-    {
-      "text": "Life is not always a celebration; so be ready to courageously face disappointments when they come, and be sure to grow stronger and wiser from them.",
-      "source": "Edmond Mbiaka",
-      "length": 148,
-      "id": 7584
-    },
-    {
-      "text": "The only taste of success some people have is when they take a bite out of you.",
-      "source": "Zig Ziglar",
-      "length": 79,
-      "id": 7586
     },
     {
       "text": "Love grows from stable relationships, shared experience, loyalty, devotion, trust.",
@@ -2099,12 +1931,6 @@
       "source": "Gary Vaynerchuk",
       "length": 162,
       "id": 7626
-    },
-    {
-      "text": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
-      "source": "Oscar Wilde",
-      "length": 103,
-      "id": 7627
     },
     {
       "text": "I don't count my sit-ups; I only start counting when it starts hurting because they're the only ones that count.",
@@ -2527,12 +2353,6 @@
       "id": 7711
     },
     {
-      "text": "There are only two kinds of people who are really fascinating: people who know absolutely everything, and people who know absolutely nothing.",
-      "source": "Oscar Wilde",
-      "length": 141,
-      "id": 7713
-    },
-    {
       "text": "Go into the world and do well. But more importantly, go into the world and do good.",
       "source": "Minor Myers Jur",
       "length": 83,
@@ -2567,12 +2387,6 @@
       "source": "Robert H. Schuller",
       "length": 224,
       "id": 7720
-    },
-    {
-      "text": "Live. Live the wonderful life that is in you. Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.",
-      "source": "Oscar Wilde",
-      "length": 137,
-      "id": 7721
     },
     {
       "text": "The most beautiful discovery true friends make is that they can grow separately without growing apart.",
@@ -2681,12 +2495,6 @@
       "source": "Tom Bodett",
       "length": 135,
       "id": 7741
-    },
-    {
-      "text": "If you set goals and go after them with determination, your gifts will take you places that will amaze you.",
-      "source": "Les Brown",
-      "length": 107,
-      "id": 7742
     },
     {
       "text": "A positive attitude is something everyone can work on, and everyone can learn how to employ it.",
@@ -2947,12 +2755,6 @@
       "id": 7791
     },
     {
-      "text": "If the person you are talking to doesn't appear to be listening, be patient. It may simply be that he has a small piece of fluff in his ear.",
-      "source": "Winnie the Pooh",
-      "length": 140,
-      "id": 7792
-    },
-    {
       "text": "Express gratitude and appreciation, it is so simple but will transform and change your life.",
       "source": "Lewis Howes",
       "length": 92,
@@ -3031,12 +2833,6 @@
       "id": 7805
     },
     {
-      "text": "Always watch where you are going. Otherwise, you may step on a piece of the Forest that was left out by mistake.",
-      "source": "Winnie the Pooh",
-      "length": 112,
-      "id": 7806
-    },
-    {
       "text": "$1,000,000 in the bank isn't the fantasy. The fantasy is the lifestyle of complete freedom it supposedly allows.",
       "source": "Tim Ferriss",
       "length": 112,
@@ -3053,12 +2849,6 @@
       "source": "Tena Desae",
       "length": 153,
       "id": 7809
-    },
-    {
-      "text": "Until you are happy with who you are, you will never be happy with what you have.",
-      "source": "Zig Ziglar",
-      "length": 81,
-      "id": 7810
     },
     {
       "text": "You can't build a dream on a foundation of sand. To weather the test of storms, it must be cemented in the heart with uncompromising conviction.",
@@ -3143,12 +2933,6 @@
       "source": "George Herbert",
       "length": 179,
       "id": 7827
-    },
-    {
-      "text": "Obstacles don't have to stop you. If you run into a wall, don't turn around and give up.",
-      "source": "Michael Jordan",
-      "length": 88,
-      "id": 7828
     },
     {
       "text": "It is not easy to be a person of high standards; you have to pay for it. It does, however, make you stand out from the crowd, which alone makes it worth more than its price.",
@@ -3239,12 +3023,6 @@
       "source": "Ron Neff",
       "length": 220,
       "id": 7844
-    },
-    {
-      "text": "In this world there are only two tragedies. One is not getting what one wants, and the other is getting it.",
-      "source": "Oscar Wilde",
-      "length": 107,
-      "id": 7845
     },
     {
       "text": "Every sunset is an opportunity to reset. Every sunrise begins with new eyes.",
@@ -3475,22 +3253,10 @@
       "id": 7891
     },
     {
-      "text": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
-      "source": "Oscar Wilde",
-      "length": 124,
-      "id": 7893
-    },
-    {
       "text": "Too many people spend money they haven't earned, to buy things they don't want, to impress people that they don't like.",
       "source": "Will Rogers",
       "length": 119,
       "id": 7895
-    },
-    {
-      "text": "The nicest feeling in the world is to do a good deed anonymously-and have somebody find out.",
-      "source": "Oscar Wilde",
-      "length": 92,
-      "id": 7896
     },
     {
       "text": "If you want the future to be good, you must make it so. Take action to make it good, and it will be.",
@@ -3509,24 +3275,6 @@
       "source": "John C. Maxwell",
       "length": 103,
       "id": 7899
-    },
-    {
-      "text": "I don't want to be at the mercy of my emotions. I want to use them, to enjoy them, and to dominate them.",
-      "source": "Oscar Wilde",
-      "length": 104,
-      "id": 7900
-    },
-    {
-      "text": "A cynic is a man who knows the price of everything, and the value of nothing.",
-      "source": "Oscar Wilde",
-      "length": 77,
-      "id": 7901
-    },
-    {
-      "text": "It is absurd to divide people into good and bad. People are either charming or tedious.",
-      "source": "Oscar Wilde",
-      "length": 87,
-      "id": 7903
     },
     {
       "text": "You have the most amazing valuable product on planet earth, which is the human body and which can reflect superconsciousness. You weren't born just to pay bills and die.",
