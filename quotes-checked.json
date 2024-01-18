@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like arsenic, toxic people slowly kill you. They kill your positive spirit and play with your mind and emotions. The only cure is to let them go.",
-      "source": "Dennisse Lisseth",
-      "length": 145,
-      "id": 7022
-    },
-    {
       "text": "Everything happens for a reason. Life puts you down, only so you can get back up for the better things. Live life, forgive and forget. Let go of the past.",
       "source": "Hussein Nishah",
       "length": 154,
@@ -6041,6 +6035,12 @@
       "source": "Avina Celeste",
       "length": 94,
       "id": 8028
+    },
+    {
+      "text": "Like arsenic, toxic people slowly kill you. They kill your positive spirit and play with your mind and emotions. The only cure is to let them go.",
+      "source": "Dennisse Lisseth",
+      "length": 145,
+      "id": 8029
     }
   ]
 }
